@@ -1,3 +1,3 @@
-# VimiCode
- Simple text editor
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+# Syntax
+is a text/code editor forked from Vimicode (Thank you https://github.com/yousifj129),
+and has added features such as dark mode!
